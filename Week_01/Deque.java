@@ -1,5 +1,3 @@
-package Week_01;
-
 import java.util.ArrayDeque;
 
 public class Deque {
